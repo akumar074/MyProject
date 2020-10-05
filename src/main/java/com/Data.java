@@ -6,12 +6,23 @@ package com;
 
 public class Data implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public Data() {
-    }
+	private java.lang.String i1;
 
+	public Data() {
+	}
 
+	public java.lang.String getI1() {
+		return this.i1;
+	}
 
+	public void setI1(java.lang.String i1) {
+		this.i1 = i1;
+	}
+
+	public Data(java.lang.String i1) {
+		this.i1 = i1;
+	}
 
 }
