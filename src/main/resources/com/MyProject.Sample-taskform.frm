@@ -1,0 +1,1 @@
+{"id":"9ca24f8c-167a-4e9c-9c7a-30ed0bd35218","name":"MyProject.Sample-taskform","model":{"processName":"Sample","processId":"MyProject.Sample","name":"process","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.process.BusinessProcessFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
