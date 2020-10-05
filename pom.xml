@@ -6,7 +6,7 @@
   <artifactId>MyProject</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>MyProject</name>
+  <name>BC-sample-project</name>
   <description></description>
   <dependencies>
     <dependency>
