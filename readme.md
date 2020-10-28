@@ -1,4 +1,4 @@
 Repository Init Content
 =======================
 
-Your project description here.
+This is a sample project created on RHPAM.
